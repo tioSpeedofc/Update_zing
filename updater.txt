@@ -3,9 +3,9 @@
     {
  "version":"INFORMAÇÕES SOBRE ATUALIZAÇÃO",
  "title":"Update Disponible",
- "description":"APK EDITOR X
- Versão atual: 3.0.1
- Nova versão: 3.0.2
+ "description":"ZANGI WA V1
+ Versão atual: 6.0.9
+ Nova versão: 6.0.9
 
 SE JÁ ESTIVER ATUALIZADO IGNORA 😐
 
